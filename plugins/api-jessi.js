@@ -137,7 +137,7 @@ Alexa.addCommand({pattern: 'logo$', fromMe: wk, desc: desc_msg}, (async (message
         t57 = 'Alexa Makes a Sci-Fi Themed Logo.' // https://textpro.me/create-science-fiction-text-effect-online-free-1038.html
     }
     else{
-        t0 = '*❝WhatsAlexa❞* 
+        t0 = '*❝WhatsAlexa❞*'
         t1 = 'Alexa Makes Devil Themed Logo.' // https://textpro.me/create-neon-devil-wings-text-effect-online-free-1014.html
         t2 = 'Alexa Makes Logo With Bear Icon.' // https://textpro.me/online-black-and-white-bear-mascot-logo-creation-1012.html
         t3 = 'Alexa Makes Logo With Neon Effect.' // https://textpro.me/create-a-futuristic-technology-neon-light-text-effect-1006.html
